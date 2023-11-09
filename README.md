@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Minzy's%20GitHub🌱&fontSize=50)
-
 <div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Minzy's%20GitHub🌱&fontSize=50)
+
 
 <a href="https://github.com/mywhzy"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mywhzy&show_icons=true&rank_icon=github&count_private=true&theme=buefy&hide_border=true" alt="Minzy's github stats" /></a>
 <br/><br/>
@@ -36,7 +37,6 @@
 
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
 
-<br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmywhzy%2Fhit-counter&count_bg=%236C84E7&title_bg=%239AB6EF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]((https://github.com/mywhzy))
 
 </div>
