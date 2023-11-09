@@ -33,10 +33,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
 
 <br/><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmywhzy%2Fhit-counter&count_bg=%236C84E7&title_bg=%239AB6EF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmywhzy%2Fhit-counter&count_bg=%236C84E7&title_bg=%239AB6EF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]((https://github.com/mywhzy))
 
 </div>
 
