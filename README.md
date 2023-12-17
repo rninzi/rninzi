@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Minzy's%20GitHub🌱&fontSize=50)
 
 
-<a href="https://github.com/mywhzy"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mywhzy&show_icons=true&rank_icon=github&count_private=true&theme=buefy&hide_border=true" alt="Minzy's github stats" /></a>
+<a href="https://github.com/mywhzy"><img align="center" style="height:180px" src="https://github-readme-stats-minzzys-projects.vercel.app/api?username=mywhzy&show_icons=true&rank_icon=github&count_private=true&theme=buefy&hide_border=true&hide=stars" alt="Minzy's github stats" /></a>
 <br/><br/>
 <a href="https://github.com/mywhzy"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mywhzy&layout=compact&theme=buefy&hide_border=true" /></a>
 <br/><br/>
